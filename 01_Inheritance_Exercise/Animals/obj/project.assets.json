@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Animals\\Animals.csproj",
+      "projectUniqueName": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Animals\\Animals.csproj",
       "projectName": "Animals",
-      "projectPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Animals\\Animals.csproj",
+      "projectPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Animals\\Animals.csproj",
       "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Animals\\obj\\",
+      "outputPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Animals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

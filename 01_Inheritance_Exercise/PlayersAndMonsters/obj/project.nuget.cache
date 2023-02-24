@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "76IwVSlxToV674jKqYhCLYKYGrGzFBzh1aduAgR6F7/mm+Vv7mPAvA8MJTuLkmnM8N97ZVw4KYKtip3taFI9Qw==",
+  "dgSpecHash": "Lj6DZn6YzuADEdCxodHu0LBKrQZuug1YrvjD+11iq3t4/XyBpKUMA4WWD7LA8nsYI3IlJYgndCHPjCaYNLcDdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+  "projectFilePath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

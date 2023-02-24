@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Zoo\\Zoo.csproj": {}
+    "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Zoo\\Zoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Zoo\\Zoo.csproj": {
+    "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Zoo\\Zoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Zoo\\Zoo.csproj",
+        "projectUniqueName": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Zoo\\Zoo.csproj",
         "projectName": "Zoo",
-        "projectPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Zoo\\Zoo.csproj",
+        "projectPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Zoo\\Zoo.csproj",
         "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Zoo\\obj\\",
+        "outputPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Zoo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

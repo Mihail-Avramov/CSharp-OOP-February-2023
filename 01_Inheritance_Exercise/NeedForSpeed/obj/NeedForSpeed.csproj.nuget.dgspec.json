@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\NeedForSpeed\\NeedForSpeed.csproj": {}
+    "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\NeedForSpeed\\NeedForSpeed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\NeedForSpeed\\NeedForSpeed.csproj": {
+    "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\NeedForSpeed\\NeedForSpeed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\NeedForSpeed\\NeedForSpeed.csproj",
+        "projectUniqueName": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
         "projectName": "NeedForSpeed",
-        "projectPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\NeedForSpeed\\NeedForSpeed.csproj",
+        "projectPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
         "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\NeedForSpeed\\obj\\",
+        "outputPath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\NeedForSpeed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

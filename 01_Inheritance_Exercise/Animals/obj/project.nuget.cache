@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8UvYz87P68+IpOkDwNSfDw7adNYFDY52zwlRE/16RkI4EeGZCO7AiwFHJa+dBgk12uSkVNY+YDIZr8WHMdiTMw==",
+  "dgSpecHash": "nVkwF8YFw5eWYFQBTDFG9V0TB/7HF+99bp7Adc1JyJBPoZQYWC+n3C/ufeiAWngB50TF8pwUxLssxjw5pR3HyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\InheritanceExercise\\Animals\\Animals.csproj",
+  "projectFilePath": "C:\\Users\\Misho\\source\\repos\\CSharp-OOP-February-2023\\01_Inheritance_Exercise\\Animals\\Animals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
